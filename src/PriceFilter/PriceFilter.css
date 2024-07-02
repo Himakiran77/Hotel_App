@@ -1,0 +1,78 @@
+.filters-and-sorting {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 20px;
+    background-color: #f9f9f9;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+
+  .filters-and-sorting h3{
+    text-align: center;
+  }
+  
+  .filter-row1,
+  .filter-row2,
+  .filter-row3,
+  .sort-by-row {
+    margin-bottom: 15px;
+  }
+  
+  .filter-row1 label,
+  .filter-row2 label,
+  .filter-row3 label,
+  .sort-by-row label {
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  .filter-options1,
+  .filter-options2,
+  .filter-options3,
+  .sort-options {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+  }
+  
+  .filter-options1 button,
+  .filter-options2 button,
+  .filter-options3 button,
+  .sort-options button {
+    padding: 8px 15px;
+    color: black;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .filter-options1 button:hover,
+  .filter-options2 button:hover,
+  .filter-options3 button:hover,
+  .sort-options button:hover {
+    background-color: #25215ABF;
+    color: white;
+  }
+
+  /* .filter-options1 label:hover{
+    background-color: #25215ABF ;
+  } */
+  
+  .button-row {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .button-row button {
+    padding: 10px 20px;
+    background-color: #25215ABF;
+    color: #fff;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+  }
+  
+  
+  

@@ -1,0 +1,122 @@
+/* .contact-form {
+    width: 200px;
+    margin: auto;
+    margin-top: 10px;
+    padding: 0px 20px 20px 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+    gap: 10px;
+    display: grid;
+  }
+  
+  label {
+    display: block;
+  }
+  
+  input[type='text'],
+  input[type='tel'],
+  input[type='email'],
+  textarea {
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  input[type='checkbox'] {
+    margin-right: 10px;
+  }
+  
+  button[type='submit'] {
+    display: block;
+    left: 70px;
+    position: relative;
+    padding: 10px;
+    background-color: #1C185BBF;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+   */
+
+
+   /* .contact-form { */
+    /* max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px; */
+
+
+ .contact-form {
+    width: 200px;
+    margin: auto;
+    margin-top: 10px;
+    padding: 0px 20px 20px 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  input[type='text'],
+  input[type='tel'],
+  input[type='email'],
+  textarea,
+  input[type='number'],
+  input[type='datetime-local'] {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  input[type='checkbox'] {
+    margin-right: 5px;
+  }
+  
+  button[type='submit'] {
+    background-color:  #1C185BBF ;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    left: 70px;
+    position: relative;
+  }
+  
+
+  
+  h2 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+  
+
+   /* .input-with-dropdown {
+    position: relative;
+  }
+  
+  .input-with-dropdown .dropdown-arrow {
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    transform: translateY(-50%);
+    width: 0;
+    height: 0;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-top: 5px solid black; 
+  } */
+  
